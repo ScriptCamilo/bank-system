@@ -1,7 +1,6 @@
+# Project Bank System
 
-# Project Ng.Cash
-
-Estruturar uma aplicação web fullstack, dockerizada, cujo objetivo seja possibilitar que usuários da NG consigam realizar transferências internas entre si.
+Estruturação de uma aplicação web fullstack, dockerizada, cujo objetivo seja possibilitar que usuários consigam realizar transferências internas entre si.
 
 ## Tech Stack
 

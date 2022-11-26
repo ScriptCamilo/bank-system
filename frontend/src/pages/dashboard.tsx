@@ -93,7 +93,7 @@ export default function Dashboard() {
       </main>
 
       <footer className="bg-black py-4 px-4 text-center">
-        <small>© NG.CASH SERVIÇOS FINANCEIROS LTDA.</small>
+        <small>© SERVIÇOS FINANCEIROS LTDA.</small>
       </footer>
     </div>
   );

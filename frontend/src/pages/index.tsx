@@ -51,7 +51,7 @@ export default function Home() {
         <Logo />
 
         <Text size="lg" className="text-gray-400 mt-1">
-          Welcome to Ng.Cash
+          Welcome to Vercel&apos;s Bank System
         </Text>
       </header>
 
