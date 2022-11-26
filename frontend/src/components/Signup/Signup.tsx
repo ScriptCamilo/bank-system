@@ -69,8 +69,7 @@ export function Signup({ children }: SignupType) {
 
           <Dialog.Description>
             <Text size="md" className="text-[#6F6E77]">
-              It&apos;s never too early to start, control your money by managing your digital wallet.
-              The new is constant, let&apos;s build the future.
+              Let&apos;s build the future.
             </Text>
           </Dialog.Description>
 

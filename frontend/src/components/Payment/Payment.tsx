@@ -84,8 +84,7 @@ export function Payment({ children }: PaymentType) {
 
           <Dialog.Description>
             <Text size="md" className="text-[#6F6E77]">
-            NG.CASH, after the point, comes a new beginning.
-            We came to help you build your financial independence, regardless of your age.
+            It&apos;s the most useful bank
             </Text>
           </Dialog.Description>
 
