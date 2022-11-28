@@ -8,6 +8,8 @@ Estruturação de uma aplicação web fullstack, dockerizada, cujo objetivo seja
 
 **Server:** Node, Express, Prisma
 
+**Database**: PostgreSQL
+
 ## Run Locally
 
 Primeiro vai ser necessário a instalação do [Docker](https://www.docker.com/) e do [Docker Compose](https://docs.docker.com/compose/).
